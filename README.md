@@ -63,7 +63,7 @@ Start server with:
 rails server
 ```
 
-Visit http://localhost:3000/ in your browser.
+Visit http://localhost:3000/v1/greetings in your browser.
 
 ## Author
 
