@@ -4,7 +4,7 @@
 
 hello-rails-back-end is a backend app for a react front end app that allows user to get random greetings.
 
-[Link to the react-front-end]()
+[Link to the react-front-end](https://github.com/Buyaki01/hello-react-front-end)
 
 ## Built With
 - Ruby on Rails
