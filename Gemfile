@@ -10,6 +10,7 @@ gem 'rails', '~> 7.0.2', '>= 7.0.2.4'
 gem 'pg', '~> 1.1'
 
 gem 'rubocop', '>= 1.0', '< 2.0'
+gem 'rack-cors', require: 'rack/cors' 
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem 'puma', '~> 5.0'
